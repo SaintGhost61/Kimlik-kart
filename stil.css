@@ -1,0 +1,66 @@
+#baslik{
+text-align: center;
+}
+#anadiv{
+    background-color: lightblue;
+    border-radius: 35px;
+    position:absolute;
+    left: 500px;
+    top: 200px;
+}
+.a{
+    position: relative;
+    left: 250px;
+    bottom: 250px;
+}
+.b{
+    position: relative;
+    display: block;
+    left: 500px;
+    bottom: 460px;
+}
+#e1{
+    margin-left: 10px;
+}
+h6{
+    position:absolute;
+}
+h5{position: absolute;}
+h3{
+    position: relative;
+    top: 40px;
+}
+#tc{
+    margin-left: 10px;
+    position: relative;
+    bottom:30px;
+}
+#içdiv{
+position: absolute;
+left: 30px;
+}
+#türkbayraği{
+    width: 100px;
+    height: 110px;
+    position: relative;
+    left:590px;
+    bottom:450px;
+}
+#yuvarlak{ 
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    width: 100px;
+    height: 40px;
+    background-image: linear-gradient(rgbA(0,0,0,0.8),rgbA(0,0,0,0.8)),url(img/e1.jpg);
+    background-size: 100px 40px;
+    border-radius: 75px;
+    position:relative;
+    left: 640px;
+    bottom:490px
+}
+#imza{
+    position: relative;
+    left: 640px;
+    bottom:490px;
+}
